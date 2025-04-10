@@ -43,7 +43,7 @@ yarn install
 Create a `.env` file in the root directory with the following variables:
 ```env
 MONGODB_URI="your_mongodb_uri"
-JWT_SECRET="your_jwt_secret_key
+JWT_SECRET="your_jwt_secret_key"
 ```
 
 4. Start the development server:
